@@ -1,4 +1,3 @@
-
 /* Get top 10 Records Oracle */
 select *
 from tableA
